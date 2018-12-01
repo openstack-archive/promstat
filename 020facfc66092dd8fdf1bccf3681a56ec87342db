@@ -1,0 +1,8 @@
+Code-Review+2: Monty Taylor <mordred@inaugust.com>
+Workflow+1: Monty Taylor <mordred@inaugust.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Sat, 01 Dec 2018 14:03:06 +0000
+Reviewed-on: https://review.openstack.org/621295
+Project: openstack/promstat
+Branch: refs/heads/master
